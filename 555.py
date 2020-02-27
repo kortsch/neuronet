@@ -19,3 +19,6 @@ for x in range(width):
 image.save("d:/Python/Lab5/result.jpg", "JPEG") #не забываем сохранить изображение
 print(a)
 image.show()
+
+
+
